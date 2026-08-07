@@ -2,9 +2,9 @@
 
 생년월일 입력 → **음력 기준 정확한 띠** + 별자리 합체 이름 생성기
 
-> 전갈자리 + 토끼띠 = **전갈토끼...오**
+> 전갈자리 + 토끼띠 = **전갈토끼**
 
-[Live Demo](https://noivan0.github.io/zodiac-combine/)
+[Live Demo](https://zodiac.allsweep.xyz/)
 
 ## Features
 
@@ -32,6 +32,7 @@
 
 ```
 index.html   # 단일 파일 (스타일 + 로직 전부 포함)
+CNAME        # zodiac.allsweep.xyz
 ```
 
 ## License
